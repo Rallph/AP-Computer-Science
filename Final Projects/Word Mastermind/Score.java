@@ -39,6 +39,4 @@ public class Score {
 
 
 
- = r;
-	}
-}
+ 
