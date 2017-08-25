@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This class is the worker superclass which will be used by 
 // other classes including HourlyWorker, SalariedWorker, 
@@ -67,5 +66,14 @@ public void proletariatRevolution(boolean c) {
 }
 
 */
+
+
+
+
+
+
+
+
+
 
 

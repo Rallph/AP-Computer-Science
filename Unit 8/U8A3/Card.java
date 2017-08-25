@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the Card class and it implements the comparable interface,
 // determines the point value, and is to be used in the game Hearts
@@ -84,3 +83,12 @@ public class Card implements Comparable {
 		return points;
 	}
 }
+
+
+
+
+
+
+
+
+

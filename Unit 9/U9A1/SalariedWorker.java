@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the code for the SalariedWorker class. It is just like a worker
 // except it only gets paid for 40 hours of work no matter what.
@@ -18,3 +17,11 @@ public class SalariedWorker extends Worker {
 		return computePay(40);
 	}
 }
+
+
+
+
+
+
+
+

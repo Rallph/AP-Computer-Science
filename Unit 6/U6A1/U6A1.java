@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This program will compare selection sort to insertion sort
 
@@ -110,3 +109,11 @@ public class U6A1 extends JApplet {
 
 
 }
+
+
+
+
+
+
+
+

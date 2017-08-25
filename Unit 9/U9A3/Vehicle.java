@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the code for the Vehicle class,
 // which is abstract. It takes x and y coordinates
@@ -31,3 +30,11 @@ public abstract class Vehicle {
 	public abstract void draw(Graphics g);
 
 }
+
+
+
+
+
+
+
+

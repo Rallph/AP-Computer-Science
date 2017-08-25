@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This class is the Hitter class and it is a subclass
 // of the BaseballPlayer class. This class will find the
@@ -28,3 +27,11 @@ public class Hitter extends BaseballPlayer {
 		return super.toString() + "Batting Average: " + stat;
 	}
 }
+
+
+
+
+
+
+
+

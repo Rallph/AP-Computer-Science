@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the DataSet class for U2 Test Project
 
@@ -40,3 +39,11 @@ public class DataSet {
 		return average;
 	}
 }
+
+
+
+
+
+
+
+

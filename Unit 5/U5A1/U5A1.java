@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This project will take two sets of grades and find the
 // means, standard deviations, and correlation
@@ -56,3 +55,11 @@ public class U5A1 {
 
 	}
 }
+
+
+
+
+
+
+
+

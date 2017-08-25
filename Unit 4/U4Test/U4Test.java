@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This will find the next prime number after the number given
 // by user input
@@ -54,3 +53,11 @@ public class U4Test extends JApplet {
 	}
 
 }
+
+
+
+
+
+
+
+

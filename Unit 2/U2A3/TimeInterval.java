@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the TimeInterval class for U2A3
 
@@ -40,3 +39,11 @@ public class TimeInterval {
 		return pay;
 	}
 }
+
+
+
+
+
+
+
+

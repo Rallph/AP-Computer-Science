@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the binary class for U4A1
 
@@ -37,3 +36,11 @@ public class Binary {
 		return result;
 	}
 }
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the code for the PieceWorker class. It is like a worker
 // class except it gets paid hourly as well as for each piece completed.
@@ -23,3 +22,11 @@ public class PieceWorker extends Worker {
 		return pieces * 0.12;
 	}
 }
+
+
+
+
+
+
+
+

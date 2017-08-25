@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This class contains the methods for BBPlayer objects
 
@@ -40,3 +39,11 @@ public class BBPlayer implements Measurable {
 		return ppg;
 	}
 }
+
+
+
+
+
+
+
+

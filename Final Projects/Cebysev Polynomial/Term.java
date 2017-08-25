@@ -1,4 +1,3 @@
-
 //
 // This is the code for the Term class.
 // It contains a coefficient and an exponent
@@ -109,3 +108,11 @@ public class Term
 
 
 }
+
+
+
+
+
+
+
+

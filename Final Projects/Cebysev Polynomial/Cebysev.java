@@ -1,4 +1,3 @@
-
 //
 // This is the driver for the Cebysev project.
 // It generates the first 10 Cebysev polynomials
@@ -57,3 +56,12 @@ public class Cebysev
 	}
 
 }
+
+
+
+
+
+
+
+
+

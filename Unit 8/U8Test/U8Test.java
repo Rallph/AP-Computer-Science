@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the driver class that processes
 // 100 quizzes and dice rolls and prints the results
@@ -63,3 +62,11 @@ public class U8Test extends JFrame {
 		}
 	}
 }
+
+
+
+
+
+
+
+

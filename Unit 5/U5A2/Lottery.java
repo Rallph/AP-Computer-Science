@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the lottery class for U5A2
 
@@ -78,3 +77,11 @@ public class Lottery {
 
 
 }
+
+
+
+
+
+
+
+

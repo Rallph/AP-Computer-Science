@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the driver class which tests the methods of the Worker classes
 // and prints the incomes of three people
@@ -63,3 +62,11 @@ public class U9A1 extends JFrame {
 
 
 }
+
+
+
+
+
+
+
+

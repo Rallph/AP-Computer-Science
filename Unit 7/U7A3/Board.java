@@ -1,4 +1,3 @@
-// Colleague #2
 //
 // This is the code for the Board class.
 // It uses a 2-D array of Pieces.
@@ -54,3 +53,11 @@ public class Board
 		return true;
 	}
 }
+
+
+
+
+
+
+
+

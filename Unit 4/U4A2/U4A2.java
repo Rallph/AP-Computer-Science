@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This will find the iterations necessary to
 // find pi accurate to 5 decimal places.
@@ -38,3 +37,11 @@ public class U4A2 {
 
 	}
 }
+
+
+
+
+
+
+
+

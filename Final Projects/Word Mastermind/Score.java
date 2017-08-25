@@ -1,4 +1,3 @@
-// Ralph Nahra & Leo Shriver
 //
 // This code is the code for a score object
 // which will be used in the top 10 score list.
@@ -30,5 +29,16 @@ public class Score {
 	public void setRank(int r) {
 
 		rank = r;
+	}
+}
+
+
+
+
+
+
+
+
+ = r;
 	}
 }

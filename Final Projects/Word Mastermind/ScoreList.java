@@ -1,4 +1,3 @@
-// Ralph Nahra & Leo Shriver
 //
 // This is the code for the ScoreList class which
 // will contain a list of Score objects and can
@@ -108,6 +107,20 @@ public class ScoreList {
 
 			throw new RuntimeException(e.toString());
 		}
+
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
 
 	}
 

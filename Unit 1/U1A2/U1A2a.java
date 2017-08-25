@@ -1,4 +1,3 @@
-//Ralph Nahra
 //
 // This project will find the intersection points of rectangles
 //and print them to the console window
@@ -42,3 +41,11 @@ java.awt.Rectangle[x=20,y=20,width=5,height=20]
 Press any key to continue . . .
 
 */
+
+
+
+
+
+
+
+

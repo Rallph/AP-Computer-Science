@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the code for the Fielder class which is a
 // subclass of the BaseballPlayer superclass.
@@ -30,3 +29,11 @@ public class Fielder extends BaseballPlayer {
 		return super.toString() + "Fielding Percentage: " + stat;
 	}
 }
+
+
+
+
+
+
+
+

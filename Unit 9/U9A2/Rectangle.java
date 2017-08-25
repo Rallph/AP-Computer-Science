@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the code for the rectangle class which uses the Line class in order
 // to print Rectangles in a Java Applet
@@ -22,3 +21,11 @@ public final class Rectangle extends Line {
 
 	}
 }
+
+
+
+
+
+
+
+

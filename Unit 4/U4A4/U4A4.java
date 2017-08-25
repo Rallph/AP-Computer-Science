@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This will find the amount of time required to pay off debt
 
@@ -62,3 +61,11 @@ public class U4A4 {
 
 
 }
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This class contains the methods for Merge Sort
 
@@ -54,3 +53,11 @@ public class MergeSorter {
 		System.arraycopy(second, j, a, k, second.length - j);
 	}
 }
+
+
+
+
+
+
+
+

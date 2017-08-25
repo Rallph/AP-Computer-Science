@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This class contains the methods for quick sort
 
@@ -48,3 +47,11 @@ public class QuickSorter {
 		return j;
 	}
 }
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-
 //
 // This is the code for the Polynomial class.
 // It has an arraylist of terms.
@@ -145,3 +144,12 @@ public class Polynomial
 	}
 
 }
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the driver class for U8A3. It will
 // accept user input and create the cards that will
@@ -73,3 +72,12 @@ Jack of Hearts
 Winner of the trick = 5 of Clubs
 Total points in trick = 15
 */
+
+
+
+
+
+
+
+
+

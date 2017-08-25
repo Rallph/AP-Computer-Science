@@ -1,4 +1,3 @@
-// Colleague #1
 //
 // This is the code for the Piece class.
 // In the Tic-Tac-Toe game, a Piece will be either
@@ -31,3 +30,11 @@ public class Piece
 			return false;
 	}
 }
+
+
+
+
+
+
+
+

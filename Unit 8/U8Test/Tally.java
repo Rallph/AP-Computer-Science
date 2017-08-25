@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the class for the Tally object which 
 // tallies the number of objects in a given array
@@ -40,4 +39,13 @@ public class Tally {
 		return tally;
 	}
 }
+
+
+
+
+
+
+
+
+
 

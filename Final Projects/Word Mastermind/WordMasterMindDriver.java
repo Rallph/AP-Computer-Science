@@ -1,4 +1,3 @@
-//Leo Shriver & Ralph Nahra
 //
 //This is the driver class for the WordMasterMind and ScoreList classes.
 //It will allow the user to first enter their name and then guess up to
@@ -37,5 +36,16 @@ public class WordMasterMindDriver
 		int score = m.getScore();
 		Score s = new Score(name, score);
 		ScoreList l = new ScoreList(s);
+	}
+}
+
+
+
+
+
+
+
+
+(s);
 	}
 }

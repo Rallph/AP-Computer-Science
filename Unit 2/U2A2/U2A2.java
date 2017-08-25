@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the driver class for the cashier class
 
@@ -42,3 +41,11 @@ Pennies  = 0
 Press any key to continue . . .
 
 */
+
+
+
+
+
+
+
+

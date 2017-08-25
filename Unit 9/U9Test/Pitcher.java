@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the Pitcher class which is a sublcass of the BaseballPlayer
 // superclass. It calculates the pitcher's run average based on earned runs
@@ -29,3 +28,11 @@ public class Pitcher extends BaseballPlayer {
 		return super.toString() + "Earned Run Average: " + stat;
 	}
 }
+
+
+
+
+
+
+
+

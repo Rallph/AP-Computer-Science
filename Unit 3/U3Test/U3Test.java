@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the driver class for the Postage class
 
@@ -31,3 +30,11 @@ public class U3Test extends JApplet {
 		g.drawString(amount, 60, 120);
 	}
 }
+
+
+
+
+
+
+
+

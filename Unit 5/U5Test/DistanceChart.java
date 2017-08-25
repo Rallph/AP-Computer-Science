@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the DistanceChart class for the Unit 5 test project
 
@@ -93,3 +92,12 @@ public class DistanceChart {
 		return result;
 	}
 }
+
+
+
+
+
+
+
+
+

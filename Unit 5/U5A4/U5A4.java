@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This program will simulate the game of life
 
@@ -109,3 +108,11 @@ public class U5A4 extends JFrame {
 
 
 }
+
+
+
+
+
+
+
+

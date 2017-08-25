@@ -1,4 +1,3 @@
-//Leo Shriver
 //
 //This is the class for the Rectangle class, which implements
 //the Shape class and can find area and perimeter when given
@@ -60,3 +59,12 @@ public class Rectangle implements Shape, Comparable
 		return "Rectangle [" + length + ", " + width + "]";
 	}
 }
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the code for the Point class, whcih is a
 // superclass for the Line class. It plots a point as an
@@ -35,3 +34,11 @@ public class Point {
 		count = 0;
 	}
 }
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-//Incomplete U9 FRQ Trapezoid class
 
 public class Trapezoid extends Quadrilateral {
 
@@ -25,6 +24,19 @@ public class Trapezoid extends Quadrilateral {
 	public double area() {
 
 		//Complete this
+	}
+}
+
+
+
+
+
+
+
+
+
+
+ete this
 	}
 }
 

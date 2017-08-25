@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This program will compare merge sort to quick sort
 
@@ -72,3 +71,11 @@ public class U6A2 extends JApplet {
 		}
 	}
 }
+
+
+
+
+
+
+
+

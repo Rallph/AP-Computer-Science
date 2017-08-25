@@ -1,4 +1,3 @@
-import java.util.Random;
 
 public class FreeResponse {
 
@@ -26,6 +25,18 @@ public class FreeResponse {
 			ary[j] = generator.nextInt(9000) + 1000;
 		}
 	}
+
+	
+}
+
+
+
+
+
+
+
+
+
 
 	
 }

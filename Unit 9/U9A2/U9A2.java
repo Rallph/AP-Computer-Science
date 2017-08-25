@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This program will create and display Rectangles that use the Line class
 // onto a Java Applet
@@ -31,3 +30,11 @@ public class U9A2 extends JApplet {
 		r3.drawRect(g);
 	}
 }
+
+
+
+
+
+
+
+

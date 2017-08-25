@@ -1,4 +1,3 @@
-//Incomplete U9 FRQ Parallelogram class
 
 public class Parallelogram extends Quadrilateral {
 
@@ -22,6 +21,19 @@ public class Parallelogram extends Quadrilateral {
 	public double area() {
 
 		return (topLeft.getY() - botLeft.getY()) * distance(botLeft,botRight);
+	}
+}
+
+
+
+
+
+
+
+
+
+
+t,botRight);
 	}
 }
 

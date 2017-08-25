@@ -1,4 +1,3 @@
-// Ralph Nahra
 // 
 // This is the code for the HourlyWorker class, which is a subclass of
 // the Worker class. It has an instance field for number of hours. 
@@ -25,3 +24,11 @@ public class HourlyWorker extends Worker {
 		}
 	}
 }
+
+
+
+
+
+
+
+

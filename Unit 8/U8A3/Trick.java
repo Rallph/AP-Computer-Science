@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the code for the Trick class which uses an ArrayList
 // to determine the points of cards
@@ -62,3 +61,12 @@ public class Trick {
 		return points;
 	}
 }
+
+
+
+
+
+
+
+
+

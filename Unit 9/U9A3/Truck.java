@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the Truck subclass
 // which extends the vehicle superclass.
@@ -36,3 +35,11 @@ public class Truck extends Vehicle {
 
 
 }
+
+
+
+
+
+
+
+

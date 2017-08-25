@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the driver class for the month class
 
@@ -65,3 +64,11 @@ public class U3A3 extends JApplet {
 		container.add(outputArea);
 	}
 }
+
+
+
+
+
+
+
+

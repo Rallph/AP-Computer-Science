@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This program will sort and search lists of names
 
@@ -123,3 +122,11 @@ private void alphabetize(String[] ary1) {
 		}
 	}
 }
+
+
+
+
+
+
+
+

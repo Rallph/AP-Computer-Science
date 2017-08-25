@@ -1,4 +1,3 @@
-// Ralph Nahra
 // 
 // This is the code for the car class which  
 // is a subclass of the Vehicle superclass
@@ -28,3 +27,11 @@ public class Car extends Vehicle {
 	}
 
 }
+
+
+
+
+
+
+
+

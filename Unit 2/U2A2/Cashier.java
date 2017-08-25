@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the cashier class for U2A2 which calculates
 // The number of coins needed for change
@@ -51,3 +50,11 @@ public class Cashier {
 
 
 }
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This program will compare sequential and binary searches
 
@@ -99,3 +98,11 @@ public class U6A3 extends JApplet {
 		return ary;
 	}
 }
+
+
+
+
+
+
+
+

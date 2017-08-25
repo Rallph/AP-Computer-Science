@@ -1,4 +1,3 @@
-//Ralph Nahra
 //
 //This project will create an applet that displays two rectangles
 //and their shared space
@@ -47,3 +46,11 @@ public class U1A2b extends Applet {
 		}
 
 }
+
+
+
+
+
+
+
+

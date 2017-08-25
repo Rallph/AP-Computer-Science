@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This class is for the Dice object which
 // adds up the sum of two dice
@@ -26,3 +25,11 @@ public class Dice implements Measurable {
 		return sum;
 	}
 }
+
+
+
+
+
+
+
+

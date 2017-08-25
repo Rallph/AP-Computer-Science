@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // lol
 
@@ -68,3 +67,11 @@ public class StockItem {
 			return (idnum + "\t" + name + "\t\t$" + price + "\t" + numOnShelf);
 	}
 }
+
+
+
+
+
+
+
+

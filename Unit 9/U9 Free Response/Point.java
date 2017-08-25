@@ -1,4 +1,3 @@
-//U9 FRQ Point class
 
 public class Point
 {
@@ -20,4 +19,14 @@ public class Point
 	{
 		return yCoord;
 	}
+}
+
+
+
+
+
+
+
+
+}
 }

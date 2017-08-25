@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // The Line class extends the Point class and contains
 // extra methods in order to print points a certain number
@@ -25,3 +24,11 @@ public class Line extends Point {
 	}
 
 }
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the superclass which will be used by the
 // Pitcher, Hitter, and Fielder classes. The classes will
@@ -25,4 +24,13 @@ public abstract class BaseballPlayer {
 	public abstract void setStat();
 
 }
+
+
+
+
+
+
+
+
+
 

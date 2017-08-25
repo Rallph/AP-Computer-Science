@@ -1,4 +1,3 @@
-// Ralph Nahra
 // 
 // This is the code for the Product class
 
@@ -42,3 +41,11 @@ public class Product {
 		return price;
 	}
 }
+
+
+
+
+
+
+
+

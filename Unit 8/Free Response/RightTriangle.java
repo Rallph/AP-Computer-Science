@@ -1,4 +1,3 @@
-//Leo Shriver
 //
 //This is the code for the RightTriangle class, which implements
 //the Shape and Comparable interfaces and can determine the area
@@ -40,3 +39,11 @@ public class RightTriangle implements Shape, Comparable
 		return "Right Triangle[" + leg1 + ", " + leg2 + "]";
 	}
 }
+
+
+
+
+
+
+
+

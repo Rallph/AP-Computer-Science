@@ -1,4 +1,3 @@
-//Leo Shriver & Ralph Nahra
 //
 //This is the code for the WordMasterMind class, which randomly selects a word out of
 //a list of 50 four letter words from a text file to be guessed by a user with the driver class.
@@ -124,6 +123,20 @@ public class WordMasterMind
 		result += "\n\n";
 		return result;
 	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 }

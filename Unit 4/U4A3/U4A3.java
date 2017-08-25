@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This program will draw a salary schedule
 // in an applet based on input
@@ -62,3 +61,11 @@ public class U4A3 extends JApplet {
 
 	}
 }
+
+
+
+
+
+
+
+

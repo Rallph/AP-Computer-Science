@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the month class for U3A3
 
@@ -43,3 +42,11 @@ public class Month {
 		return days;
 	}
 }
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the driver class for U9A3
 // which will generate 10 cars or trucks
@@ -73,3 +72,11 @@ public class U9A3 extends JFrame {
 
 
 }
+
+
+
+
+
+
+
+

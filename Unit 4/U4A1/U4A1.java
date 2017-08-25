@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This is the U4A1 driver class for the Binary class
 
@@ -44,3 +43,11 @@ public class U4A1 extends JApplet {
 
 	}
 }
+
+
+
+
+
+
+
+

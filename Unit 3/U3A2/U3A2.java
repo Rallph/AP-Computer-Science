@@ -1,4 +1,3 @@
-// Ralph Nahra
 //
 // This will draw a tax liability report on an applet
 
@@ -112,3 +111,11 @@ public class U3A2 extends JApplet {
 
 
 }
+
+
+
+
+
+
+
+

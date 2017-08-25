@@ -1,4 +1,3 @@
-//U9 FRQ Quadrilateral class
 
 public abstract class Quadrilateral
 {
@@ -27,4 +26,14 @@ public abstract class Quadrilateral
 	public abstract double perimeter();
 
 	public abstract double area();
+}
+
+
+
+
+
+
+
+
+e area();
 }
